@@ -1,2 +1,2 @@
 go test
-go build -o jcatctl
+go build -o after5
